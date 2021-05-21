@@ -1,16 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Main module
 
-Contains the class TextAnalyser to handle a text
-
-NLP3O is a word game between NLP (Natural Language Processing) and C3PO
-
-Created on Tue Apr 25 15:10:58 2017
-
-@author: Mashimo
-"""
 from .inputhandler import readStopwords
 import nltk
 from nltk.stem import WordNetLemmatizer
