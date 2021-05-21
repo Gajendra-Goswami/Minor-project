@@ -1,15 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Module to manage static input files as stopwords and sample books
 
-Created on Tue May  2 17:11:40 2017
-
-@author: Mashimo
-
-Stopwords taken from https://pypi.python.org/pypi/stop-words
-Text Files taken from Project Gutenberg
-"""
 import os
 
   # samples are in the form (filename,title)
